@@ -1,0 +1,10 @@
+fastapi==0.128.1
+uvicorn==0.40.0
+python-dotenv==1.2.1
+scikit-learn==1.3.2
+imbalanced-learn==0.13.0
+matplotlib==3.10.8
+seaborn==0.13.2
+tensorflow==2.20.0
+nltk==3.8.1
+joblib==1.5.3
